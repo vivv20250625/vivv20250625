@@ -61,4 +61,4 @@ Telegram频道传送门：提供热门频道分类索引，从爆料资讯到趣
 
 黑料大事记通过系统化时间轴展示爆料演变过程，揭示事件背后的深层逻辑，为公众提供多角度了解娱乐圈风波的窗口。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivv20250625/vivv20250625）</span>
